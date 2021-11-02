@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": "2021-11-01 20:52:39",
+    "severity": "DEBUG",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2021-10-27 12:33:23",
+    "severity": "WARNING",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low",
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2021-10-12 23:44:22",
+    "severity": "SEVERE",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low",
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2021-09-09 04:12:05",
+    "severity": "INFO",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low",
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2014-07-02 20:52:39",
+    "severity": "INFO",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low",
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2021-07-02 20:32:39",
+    "severity": "SEVERE",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low"
+    ]
+  },
+  {
+    "timestamp": "2021-11-01 20:52:39",
+    "severity": "DEBUG",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "low",
+      "medium",
+      "high"
+    ]
+  },
+  {
+    "timestamp": "2014-07-02 20:52:39",
+    "severity": "DEBUG",
+    "message": {
+      "file": "HelloExample:19",
+      "text": "This is debug : mkyong"
+    },
+    "visibility": [
+      "medium"
+    ]
+  }
+]
